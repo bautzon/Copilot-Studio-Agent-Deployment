@@ -110,3 +110,7 @@ Wait a few minutes, and you should now see your agent deployed on your **Test En
 - [How to setup managed Environments](https://www.youtube.com/watch?v=XzW6XG-CdWU)
 - [Pipeline Setup for Power Platform](https://www.youtube.com/watch?v=HAhObylsYgw&t=508s)
 - [Adding Application Insights Telemetry](https://www.youtube.com/watch?v=ytdMLmQFXhc)
+
+- [Overview if setting up pipelines](https://learn.microsoft.com/en-us/power-platform/alm/set-up-pipelines)
+- [Prerequisites](https://learn.microsoft.com/en-us/power-platform/alm/platform-host-pipelines#prerequisites-for-personal-pipelines-using-the-platform-host)
+- [Create a Pipeline in Power Apps](https://learn.microsoft.com/en-us/power-platform/alm/platform-host-pipelines#create-a-pipeline-in-power-apps)
