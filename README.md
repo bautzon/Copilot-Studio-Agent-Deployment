@@ -103,6 +103,14 @@ To deploy an agent, go to:
 
 Wait a few minutes, and you should now see your agent deployed on your **Test Environment**.
 
+### Deploy Further Down the Pipeline
+
+To deploy further down the pipeline, run the **Solution Checker** once more and deploy from **Test → Prod**.
+
+![Deploy Hub]({F2984552-EDEC-4611-A1B2-158A7D100617}.png)
+
+![Deploy from Test to Prod]({6801FA9A-F809-4F3F-AFC1-BE1AFB751A98}.png)
+
 ---
 
 ## 📚 Good Resources
@@ -110,7 +118,6 @@ Wait a few minutes, and you should now see your agent deployed on your **Test En
 - [How to setup managed Environments](https://www.youtube.com/watch?v=XzW6XG-CdWU)
 - [Pipeline Setup for Power Platform](https://www.youtube.com/watch?v=HAhObylsYgw&t=508s)
 - [Adding Application Insights Telemetry](https://www.youtube.com/watch?v=ytdMLmQFXhc)
-
-- [Overview if setting up pipelines](https://learn.microsoft.com/en-us/power-platform/alm/set-up-pipelines)
-- [Prerequisites](https://learn.microsoft.com/en-us/power-platform/alm/platform-host-pipelines#prerequisites-for-personal-pipelines-using-the-platform-host)
+- [Overview of Setting Up Pipelines](https://learn.microsoft.com/en-us/power-platform/alm/set-up-pipelines)
+- [Prerequisites for Personal Pipelines](https://learn.microsoft.com/en-us/power-platform/alm/platform-host-pipelines#prerequisites-for-personal-pipelines-using-the-platform-host)
 - [Create a Pipeline in Power Apps](https://learn.microsoft.com/en-us/power-platform/alm/platform-host-pipelines#create-a-pipeline-in-power-apps)
