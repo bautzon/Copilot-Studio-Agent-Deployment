@@ -111,6 +111,7 @@ To deploy further down the pipeline, run the **Solution Checker** once more and 
 
 ![Deploy from Test to Prod]({6801FA9A-F809-4F3F-AFC1-BE1AFB751A98}.png)
 
+If you have any deployment issues og bugs. [Refer to here](secondguide.md) or try your luck with AI :D 
 ---
 
 ## 📚 Good Resources
