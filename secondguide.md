@@ -196,6 +196,30 @@ pac solution import --async --path solution.zip --environment [env-url]
 * **Pre-deployment validation** saves hours of debugging later
 
 ---
+## Guide: Setting Up Copilot Studio WebChat Integration (Markdown)
+* **Required Configuration Variables**
+* **TENANT_ID= <Azure Portal → Azure Active Directory → Tenant ID>**
+* **CLIENT_ID= <Azure Portal → App registrations → Application (client) ID>**
+* **CLIENT_SECRET= <Azure Portal → App registrations → Certificates & Secrets (create new secret)>**
+* **SCHEMA_NAME= <Power Apps → Tables → Select table → Name (only if using Dataverse)>**
+* **ENVIRONMENT_ID= <Power Platform Admin Center → Select environment → Environment ID>**
+* **RESOURCE_APP_ID= <Azure Portal → App registrations → Application (client) ID (or specific resource app)>**
+* **PORT=3978 (or your chosen local port)**
+---
+
+## Copilot Studio Security Setup
+
+## Go to Copilot Studio.
+
+* **Open your bot → Settings → Security.**
+
+* **Choose:**
+
+* **Manual OAuth setup → enter Tenant ID, Client ID, Client Secret, Scopes.**
+
+* **Built-in authentication → link directly to Azure or Power Platform.**
+
+* **Ensure Azure app has correct API permissions and admin consent.**
 
 ## 📚 Additional Resources
 
